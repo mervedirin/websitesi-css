@@ -1,0 +1,44 @@
+.font-family, h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: saddlebrown;
+    font-size: 30px;
+    
+}
+
+.position{
+    text-align: center;
+   
+}
+
+.inlineList {
+    display: inline-block;
+    color: saddlebrown !important;
+    font-size: 15px;
+    word-spacing: 15px;
+}
+.h2  {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color:saddlebrown
+}
+.brownlink 
+{
+    color: saddlebrown;
+    font-size: 18px;
+    
+}
+ .text{
+    font-weight: bold;
+ }
+ 
+ .main{
+    color: saddlebrown;
+    padding: 29px;
+    margin-top: -10px;
+    text-align: left;
+ }
+
+ .img{
+    padding: 121px;
+
+ }
